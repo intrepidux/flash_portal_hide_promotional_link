@@ -24,11 +24,14 @@
     'version': '14.0.1.0.1',
     'author': 'FlashOdoo',
     'website': 'https://www.flashodoo.com',
-    'license': 'AGPL-3',
+    'license': 'LGPL-3',
     'depends': ['portal'],
     'data': [
         'views/portal_template.xml'
     ],
-	'images': ['static/description/633x335.jpg'],
+	'images': [
+        'static/description/icon.png',
+        'static/description/main_screenshot.png'
+    ],
     'installable': True,
 }

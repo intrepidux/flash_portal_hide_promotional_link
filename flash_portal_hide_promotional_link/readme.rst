@@ -3,7 +3,7 @@
    :alt: License: AGPL-3
 
 ==============================
-Portal hide promotional link 2
+Portal hide promotional link
 ==============================
 
  -Con la instalación de este módulo se consigue ocultar la línea "Con la

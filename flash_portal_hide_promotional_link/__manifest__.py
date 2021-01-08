@@ -31,7 +31,7 @@
     ],
 	'images': [
         'static/description/icon.png',
-        'static/description/banner.png'
+        'static/description/main_screenshot.png'
     ],
     'installable': True,
 }

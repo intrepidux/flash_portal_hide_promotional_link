@@ -30,8 +30,7 @@
         'views/portal_template.xml'
     ],
 	'images': [
-        'static/description/icon.png',
-        'static/description/main_screenshot.png'
+        'static/description/banner.png'
     ],
     'installable': True,
 }

@@ -21,7 +21,7 @@
     'name': 'Portal Hide Promotional Link',
     'summary': 'Hide Odoo promotional link in website sale orders and bottom right link',
     'category': 'Website',
-    'version': '13.0.1.0.1',
+    'version': '12.0.1.0.1',
     'author': 'FlashOdoo',
     'website': 'https://www.flashodoo.com',
     'license': 'AGPL-3',

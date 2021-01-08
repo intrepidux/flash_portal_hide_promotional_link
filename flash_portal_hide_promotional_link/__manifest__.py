@@ -24,7 +24,7 @@
     'version': '14.0.1.0.1',
     'author': 'FlashOdoo',
     'website': 'https://www.flashodoo.com',
-    'license': 'LGPL-3',
+    'license': 'AGPL-3',
     'depends': ['portal'],
     'data': [
         'views/portal_template.xml'

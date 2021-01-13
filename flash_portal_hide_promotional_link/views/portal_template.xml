@@ -8,9 +8,12 @@
             </xpath>
         </field>
     </record>
-	
-	<template id="web.brand_promotion_message">
-		<xpath expr="//final_message" position="replace">
-		</xpath>
-	</template>
+	 <record model="ir.ui.view" id="frontend_layout">
+        <field name="inherit_id" ref="portal.frontend_layout"/>
+        <field name="arch" type="xml">
+			<xpath expr="//*[contains(@class, 'float-right mb16')]" position="attributes">
+                <attribute name="t-if">False</attribute>
+            </xpath>
+        </field>
+    </record>
 </odoo>

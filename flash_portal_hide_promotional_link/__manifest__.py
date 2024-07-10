@@ -1,7 +1,7 @@
 ###############################################################################
 #
 #    Flash Software, S.L.
-#    Copyright (C) 2020-Flash Software, S.L. <www.flashodoo.com>
+#    Copyright (C) 2020-Flash Software, S.L. <www.flasof.com>
 #
 #    This program is free software: you can redistribute it and/or modify
 #    it under the terms of the GNU Affero General Public License as
@@ -21,9 +21,9 @@
     'name': 'Portal Hide Promotional Link',
     'summary': 'Hide Odoo promotional link in website sale orders and bottom right link',
     'category': 'Website',
-    'version': '16.0.22.10.26',
+    'version': '17.0.24.07.08',
     'author': 'FlashOdoo',
-    'website': 'https://www.flashodoo.com',
+    'website': 'https://www.flasof.com',
     'license': 'AGPL-3',
     'depends': ['portal'],
     'data': [
